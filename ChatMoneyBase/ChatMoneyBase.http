@@ -1,0 +1,6 @@
+@ChatMoneyBase_HostAddress = http://localhost:5145
+
+GET {{ChatMoneyBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
